@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Basic Photo Uploader</string>
+    <string name="register_your_email_id">Register Your Email Id</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="register">Register</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="login">Login</string>
+    <string name="welcome_upload_photo">Welcome Upload Photo</string>
+    <string name="log_out">Log out</string>
+    <string name="already_registered_login">Already Registered Login</string>
+    <string name="choose">Choose</string>
+    <string name="upload">Upload</string>
+    <string name="todo">TODO</string>
+    <string name="image">Image</string>
+</resources>

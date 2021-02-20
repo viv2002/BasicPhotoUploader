@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048133597492",
+    "project_id": "basic-photo-uploader",
+    "storage_bucket": "basic-photo-uploader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048133597492:android:79d432a7347bfdb8ec0d61",
+        "android_client_info": {
+          "package_name": "com.example.basicphotouploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048133597492-d31uo8eogo4nmpke4jvetmvo40ugtsfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAllUIhoVYtOSAlZfMea98pJ1Nc4w4_tks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048133597492-d31uo8eogo4nmpke4jvetmvo40ugtsfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
